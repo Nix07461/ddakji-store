@@ -1,0 +1,32 @@
+h1 {
+ text-align: center;
+ font-size: 75px;
+}
+button {
+    font-size: 10px;
+    text-decoration: none;
+  }
+    
+  button {background-image: linear-gradient(to right, #4b4b4b 0%, #000000  51%, #2c2c2c  100%)}
+  button {
+     margin: 5px;
+     padding: 10px 15px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 1px 1px 1px #242323;
+     border-radius: 10px;
+     display: inline;
+   }
+  
+   button:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+   .img {
+    position: absolute;
+
+   }
